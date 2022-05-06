@@ -2,11 +2,11 @@
   <img src="images/ssrslogo.png" alt="ngx-ssrs-reportviewer Logo" width="200">
 </p>
 
-<h1 align="center">Angular SQL Server Report Viewer (ngx-ssrs-reportviewer)</h1>
+<h1 align="center">Angular SQL Server Report Viewer Custom Angular 13 Version (ngx-ssrs-reportviewer-custom-a13 )</h1>
 
 <p align="center">
-<a href="https://www.npmjs.com/package/ngx-ssrs-reportviewer"><img src="https://img.shields.io/npm/v/ngx-ssrs-reportviewer.svg?colorB=cb3837" alt="npm"></a>
-<a href="https://www.npmjs.com/package/ngx-ssrs-reportviewer"><img src="https://img.shields.io/npm/dt/ngx-ssrs-reportviewer?color=blue" alt="Downloads"></a>
+<a href="https://www.npmjs.com/package/ngx-ssrs-reportviewer-custom-a13"><img src="https://img.shields.io/npm/v/ngx-ssrs-reportviewer.svg?colorB=cb3837" alt="npm"></a>
+<a href="https://www.npmjs.com/package/ngx-ssrs-reportviewer-custom-a13"><img src="https://img.shields.io/npm/dt/ngx-ssrs-reportviewer?color=blue" alt="Downloads"></a>
 <a href="https://github.com/tycomo/ngx-ssrs-reportviewer/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
 </p>
 
@@ -23,18 +23,20 @@
 
 This library was created to give users the ability to display SQL Server Reporting Services (SSRS) reports within Angular applications.  The report viewer simplifies the process of sending commands to your report server through URL requests.  For example, you can pass parameter values and modify the controls that the user has access to inside the report viewer through your own Angular components.  You can read more about using URL access of the report server [here](https://docs.microsoft.com/en-us/sql/reporting-services/url-access-ssrs).
 
+This specific version was forked from https://github.com/JJU115/ngx-ssrs-reportviewer (https://github.com/tycomo/ngx-ssrs-reportviewer was the original repository) and is compatible with Angular 13.3
+
 ## 🔧 Installation
 
-Install ngx-ssrs-reportviewer using npm:
+Install ngx-ssrs-reportviewer-custom-a13 using npm:
 
 ```bash
-npm install ngx-ssrs-reportviewer --save 
+npm install ngx-ssrs-reportviewer-custom-a13 --save 
 ```
 
 or
 
 ```bash
-ng add ngx-ssrs-reportviewer
+ng add ngx-ssrs-reportviewer-custom-a13
 ```
 
 ## 👨🏻‍🏫 Usage
